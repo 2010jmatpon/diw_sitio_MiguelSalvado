@@ -6,7 +6,7 @@
 
 La paleta de colores es una escala de grises debido al gusto de los colores blanco y negro del cliente.
 
-![paleta](/src/assets/images/paleta.jpg)
+![paleta](/src/assets/images/paleta.png)
 
  - #010101 → Es usado principalmente en la cabecera de la página y en los títulos o textos.
  - #C7C7C7 → Usado en la zona de contenido como color de fondo de la página.
