@@ -23,11 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uoc-advanced-html-css/uoc-boilerplate.git"
+    "url": "https://github.com/2010jmatpon/diw_sitio_MiguelSalvado#repositorio-de-miguel-salvado"
   },
-  "author": {
-    "name": "Jordi Tarrida",
-    "email": "jorditarrida@uoc.edu"
+  "author1": {
+    "name": "Juan Maria Mateos Ponce",
+    "email": "jmatpon2010@g.educaand.es"
+  },
+  "author2": {
+    "name": "Julian Garcia Velazquez",
+    "email": "jgarvel076@g.educaand.es"
   },
   "license": "MIT",
   "bugs": {
