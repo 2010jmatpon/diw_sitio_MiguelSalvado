@@ -20,3 +20,9 @@ La paleta de colores es una escala de grises debido al gusto de los colores blan
 La principal tipografía usada en la web es la tipografía Asap. Esta la utilizamos tanto en títulos como en texto, sin embargo en los títulos aplicamos un mayor tamaño de fuente y la negrita.
 
 En cuanto a la tipografía del título de la web utilizamos la tipografía Moontime que bajo nuestra perspectiva le da un toque personal a la web, pues se asemeja mucho a lo que podría ser la firma del cliente.
+
+### Estructura
+
+![estructura](/src/assets/images/estructura.png)
+
+(estructura actual a falta de página de inicio)
