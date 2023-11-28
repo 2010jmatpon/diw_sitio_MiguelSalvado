@@ -4,7 +4,7 @@
 
 La paleta de colores es una escala de grises debido al gusto de los colores blanco y negro del cliente.
 
-![paleta](/images/paleta.jpg)
+![paleta](https://github.com/2010jmatpon/diw_sitio_MiguelSalvado/blob/master/images/Paleta%20de%20colores.png)
 
 
  - #010101 → Es usado principalmente en la cabecera de la página y en los títulos o textos.
