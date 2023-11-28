@@ -1,5 +1,7 @@
 ## REPOSITORIO DE MIGUEL SALVADO
 
+
+
 ### Colores
 
 La paleta de colores es una escala de grises debido al gusto de los colores blanco y negro del cliente.
