@@ -25,14 +25,17 @@
     "type": "git",
     "url": "https://github.com/2010jmatpon/diw_sitio_MiguelSalvado#repositorio-de-miguel-salvado"
   },
-  "author1": {
+  "authors": {
+    "author": {
+      "name": "Julian Garcia Velazquez",
+      "email": "jgarvel076@g.educaand.es"
+    },
+    "author2": {
     "name": "Juan Maria Mateos Ponce",
     "email": "jmatpon2010@g.educaand.es"
+    }
   },
-  "author2": {
-    "name": "Julian Garcia Velazquez",
-    "email": "jgarvel076@g.educaand.es"
-  },
+  
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/uoc-advanced-html-css/uoc-boilerplate/issues"
