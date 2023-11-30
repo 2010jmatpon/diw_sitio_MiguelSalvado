@@ -1,6 +1,6 @@
 ## REPOSITORIO DE MIGUEL SALVADO
 
-
+Por: Juan María Mateos Ponce y Julián García Velázquez
 
 ### Colores
 
