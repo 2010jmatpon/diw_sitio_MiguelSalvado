@@ -26,3 +26,7 @@ En cuanto a la tipografía del título de la web utilizamos la tipografía Moont
 ![estructura](/src/assets/images/estructura.png)
 
 (estructura actual a falta de página de inicio)
+
+Consulta más acerca de ella en el siguiente enlace:
+
+
