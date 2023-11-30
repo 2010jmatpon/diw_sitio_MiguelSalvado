@@ -2,6 +2,10 @@
 
 Por: Juan María Mateos Ponce y Julián García Velázquez
 
+### Público Objetivo
+
+
+
 ### Colores
 
 La paleta de colores es una escala de grises debido al gusto de los colores blanco y negro del cliente.
@@ -29,4 +33,5 @@ En cuanto a la tipografía del título de la web utilizamos la tipografía Moont
 
 Consulta más acerca de ella en el siguiente enlace:
 
+[Enlace a Figma](https://www.figma.com/file/zWpd2OCfbQaS1IoJXaLqq3/MIGUEL-SALVADO?type=design&node-id=0%3A1&mode=design&t=hTFGhTLFCaY7GHWO-1)
 
