@@ -37,8 +37,6 @@ En cuanto a la tipografía del título de la web utilizamos la tipografía Moont
 
 ![estructura](/src/assets/images/estructura.png)
 
-(estructura actual a falta de página de inicio)
-
 Consulta la estructura detalladamente en el siguiente enlace:
 
 [Enlace a Figma](https://www.figma.com/file/zWpd2OCfbQaS1IoJXaLqq3/MIGUEL-SALVADO?type=design&node-id=0%3A1&mode=design&t=hTFGhTLFCaY7GHWO-1)
