@@ -1,8 +1,16 @@
 ## REPOSITORIO DE MIGUEL SALVADO
 
-Por: Juan María Mateos Ponce y Julián García Velázquez
+Equipo de trabajo integrado por: Juan María Mateos Ponce y Julián García Velázquez
 
 ### Público Objetivo
+
+Esta web esta dirigida a seguidores de la fotografía, usuarios con aspecto crítico y amantes del arte.
+
+### Tipo de Web 
+
+Web informativa con proyección de sus proyectos y obras de arte. Tenemos la opción de encontrar todas sus obras y su contacto en caso de querer ofrecer a Miguel dar una conferencia.
+
+### Elementos de diseño
 
 
 
