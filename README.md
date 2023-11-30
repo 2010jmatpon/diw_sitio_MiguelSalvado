@@ -12,7 +12,7 @@ Web informativa para proporcionar al público objetivo una amplia vista de proye
 
 ### Elementos de diseño
 
-
+Una web minimalista pero con una elegante estetica. Encontramos colores simples como son el negro, gris y blanco, resaltando por su contraste y su simpleza, además de darle a la web una sensación limpia y clara, sin sobrecargar la vista del usuario que la visite y permitiendole disfrutar de las obras de arte. Nada mas entrar en la web no encontramos con el protagonista, Miguel Salvado, represetando asi su caracter narcisista. En la pagina de "proyectos" y "sobre mi" encontramos la imagen a la izquierda, anteponiendo la imagen a la informacion cuando un usuario haga un vistazo rápido. 
 
 ### Colores
 
