@@ -8,7 +8,7 @@ Esta web esta dirigida a seguidores de la fotografía, usuarios con aspecto crí
 
 ### Tipo de Web 
 
-Web informativa con proyección de sus proyectos y obras de arte. Tenemos la opción de encontrar todas sus obras y su contacto en caso de querer ofrecer a Miguel dar una conferencia.
+Web informativa para proporcionar al público objetivo una amplia vista de proyectos y obras de arte creadas por Miguel Salvado, la actulización de este sitio online será continua, es decir se irá actualizando a medida que se creen nuevos proyectos o el equipo dediseño decida añadir funcionalidades. Dentro de esta web encontramos la opción de encontrar todas sus obras y su contacto en caso de querer ofrecer a Miguel dar una conferencia. 
 
 ### Elementos de diseño
 
