@@ -1,27 +1,57 @@
 <!DOCTYPE html>
 
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" type="text/css" href="./assets/styles/main.scss"><!-- do not remove this line! -->
-    <title>UOC Boilerplate</title>
-  </head>
-  <body>
-    <div class="uoc-container">
-      <picture>
-        <source srcset="./assets/images/logo.png?as=webp&width=350" type="image/webp" />
-        <img src="./assets/images/logo.png?width=350" alt="Universitat Oberta de Catalunya" class="uoc-logo" />
-      </picture>
-      <h1 class="uoc-title">Hello, UOC!</h1>
-      <p>
-        This is a starter template for the Advanced HTML and CSS Tools courses
-        from the Master's Program in Multimedia Applications and the Master's
-        Program in Web App and Website Development at the Universitat Oberta de
-        Catalunya.
-      </p>
-    </div>
-    <include src="./views/footer.html"></include>
-    <script type="module" src="./assets/scripts/main.js"></script><!-- do not remove this line! -->
-  </body>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="./assets/styles/main.scss"
+        />
+        <!-- do not remove this line! -->
+        <title>Miguel Salvado</title>
+    </head>
+    <body>
+        <header class="zonaHeader">
+            <picture>
+                <img
+                    class="imagenLogo"
+                    src="./assets/images/Miguel Salvado.png"
+                    alt="Miguel Salvado"
+                />
+            </picture>
+        </header>
+        <nav class="zonaNavegacion">
+            <h3><a href="">INICIO</a></h3>
+            <h3><a href="">SOBRE MÍ</a></h3>
+            <h3><a href="">CONTACTO</a></h3>
+            <h3><a href="">PROYECTOS</a></h3>
+        </nav>
+
+        <div class="zonaContenido">
+            <picture class="zonaContenido__img--1">
+                <img src="./assets/images/fotoinicio5.jpg" alt="" />
+            </picture>
+            <picture class="zonaContenido__img--2">
+                <img src="./assets/images/fotoinicio2.jpg" alt="" />
+            </picture>
+            <picture class="zonaContenido__img--3">
+                <img src="./assets/images/footoinicio3.jpg" alt="" />
+            </picture>
+            <picture class="zonaContenido__img--4">
+                <img src="./assets/images/fotoinicio1.jpg" alt="" />
+            </picture>
+            <picture class="zonaContenido__img--5">
+                <img src="./assets/images/fotoinicio4.jpg" alt="" />
+            </picture>
+            <picture class="zonaContenido__img--6">
+                <img src="./assets/images/fotoinicio6.jpeg" alt="" />
+            </picture>
+        </div>
+
+        <include src="./views/footer.html"></include>
+        <script type="module" src="./assets/scripts/main.js"></script>
+        <!-- do not remove this line! -->
+    </body>
 </html>

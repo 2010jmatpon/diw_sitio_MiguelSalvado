@@ -1,30 +1,75 @@
-/**
- * Use this file to import partials.
- * Do not include SCSS code in this file.
- */
+body {
+    margin: 0;
+}
+.zonaHeader {
+    background-color: black;
+    height: 1200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 
-/**
- * Import variables
- */
+    .imagenLogo {
+        background-size: cover;
+        background-position: center;
+    }
+}
 
-@import "variables";
+.zonaNavegacion {
+    height: 100%;
+    width: 100%;
+    background-color: #d9d9d9;
 
-/**
- * Import npm dependencies
- * see: https://v2.parceljs.org/features/module-resolution/
- * see commented examples below
- */
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
 
-// @import "some-node-module";
-// @import "@some-company/some-node-module";
+.zonaContenido {
+    background-color: #c7c7c7;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /*display: row;
+    grid-template-rows: repeat(2 ,1fr);*/
 
-/**
- * Import layouts
- * It's a best practice to use a different partial for each page
- */
+    .zonaContenido__img--1 {
+        img {
+            height: 100%;
+            max-width: 100%;
+        }
+    }
 
-@import "layouts/home";
+    .zonaContenido__img--2 {
+        img {
+            height: 100%;
+            max-width: 100%;
+        }
+    }
 
-/**
- * Do NOT include anything else in this file!
- */
+    .zonaContenido__img--3 {
+        img {
+            height: 100%;
+            max-width: 100%;
+        }
+    }
+
+    .zonaContenido__img--4 {
+        img {
+            height: 100%;
+            max-width: 100%;
+        }
+    }
+
+    .zonaContenido__img--5 {
+        img {
+            height: 100%;
+            max-width: 100%;
+        }
+    }
+
+    .zonaContenido__img--6 {
+        img {
+            height: 100%;
+            max-width: 100%;
+        }
+    }
+}
