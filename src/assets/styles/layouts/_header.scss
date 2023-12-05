@@ -1,0 +1,18 @@
+.header {
+    background-color: black;
+    height: 350px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    .logoHeader {
+
+        .imagenLogo {
+            background-size: cover;
+            background-position: center;
+            height: auto;
+            width: auto;
+        }
+    }
+}

@@ -1,0 +1,24 @@
+.zonaFooter {
+    background-color: #000;
+    width: 100%;
+    color: #fff;
+    padding: 20px;
+    .zonaLogo {
+        padding: 20px;
+        background-color: black;
+        height: 200px;
+        display: flex;
+        color: #fff;
+
+        .imagenLogo {
+            background-size: cover;
+            background-position: center;
+        }
+    }
+
+    .zonaInfo{
+        img{
+            width: 20px;
+        }
+    }
+}

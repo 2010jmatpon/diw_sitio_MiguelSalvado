@@ -1,0 +1,12 @@
+.zonaHeader {
+    background-color: black;
+    height: 1200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    .imagenLogo {
+        background-size: cover;
+        background-position: center;
+    }
+}
