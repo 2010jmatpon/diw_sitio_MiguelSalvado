@@ -29,52 +29,28 @@ body {
 //     }
 // }
 
-.zonaContenido {
+.zonaContenido--sobremi {
     background-color: #c7c7c7;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    /*display: row;
-    grid-template-rows: repeat(2 ,1fr);*/
+    grid-template-columns: repeat(2, 1fr);
 
-    .zonaContenido__img--1 {
+    .zonaContenido__img {
+        display: grid;
+        grid-column: 1/2;
         img {
             height: 100%;
             max-width: 100%;
         }
     }
 
-    .zonaContenido__img--2 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
+    .zonaContenido__txt {
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        padding: 10px;    
+        grid-column: 2/3;
+        align-items: center;
     }
 
-    .zonaContenido__img--3 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
-    }
 
-    .zonaContenido__img--4 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
-    }
-
-    .zonaContenido__img--5 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
-    }
-
-    .zonaContenido__img--6 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
-    }
 }
