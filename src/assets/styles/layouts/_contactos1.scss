@@ -5,12 +5,12 @@ body {
 }
 
 
-.zonaContenido--contactos {
-    width: auto; /* Define el ancho */
-    height: 500px; /* Define la altura */
-    margin-top: 275px;
+.zonaContenido--contactos1 {
+    width: auto;
+    height: 500px;
+    margin-top: 250px;
 
-    .zonaContenido--contactos__txt {
+    .zonaContenido--contactos1__txt {
         justify-content: center;
         align-items: center;
         flex-direction: column;
@@ -18,15 +18,18 @@ body {
         text-align:justify;
         
 
-        .titulo--contactos{
+        .titulo--contactos1{
             font-weight: bold;
         }
 
-        .texto--contatos{
+        p{
             font-size: large;
         }
     }
-
+    .img--contactos1{
+        height: 25px;
+        width: auto;
+    }
     .zonaContactos--img{
         a {
         display: flex;

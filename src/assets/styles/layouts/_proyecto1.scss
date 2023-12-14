@@ -1,8 +1,32 @@
+.zonaContenido--ProyectosDetalles {
+  background-color: #c7c7c7;
+  padding: 0;
+  background-image: url("../images/imgproyectos.jpg");
+  background-size: cover;
+  height: 1000px;
 
-    
-  .zonaContenido--ProyectosDetalles{
-    background: url('../images/imgproyectos1.png') no-repeat center center;
-    background-size: cover;
-    padding: 0;
-}  
-
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  .zonaContenido--ProyectosDetalles__zonaInfo {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    grid-column: 3/4;
+    justify-content: end;
+    padding-bottom: 50px;
+    flex-direction: column;
+    display: flex;
+    padding-right: 20px;
+    text-align: justify;
+    color: white;
+    h1 {
+      width: 375px;
+      background-color: #c7c7c7;
+      opacity: 0.5;
+      color: black;
+      margin: 0;
+      padding-left: 5px;
+      padding-right: -20px;
+    }
+  }
+}
