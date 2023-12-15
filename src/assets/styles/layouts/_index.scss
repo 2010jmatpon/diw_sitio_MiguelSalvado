@@ -1,56 +1,112 @@
 @import url("https://fonts.googleapis.com/css2?family=Asap&family=Lato:wght@300&display=swap");
-body {
-    margin: 0;
-    font-family: "Asap", sans-serif;
+
+
+@media all and (min-width: 768px) {
+    body {
+        margin: 0;
+        font-family: "Asap", sans-serif;
+    }
+
+    .zonaContenido {
+        background-color: #c7c7c7;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+
+        .zonaContenido__img--1 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--2 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--3 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--4 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--5 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--6 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+    }
 }
 
-.zonaContenido {
-    background-color: #c7c7c7;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-
-    .zonaContenido__img--1 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
+@media all and (max-width: 768px) {
+    body {
+        margin: 0;
+        font-family: "Asap", sans-serif;
     }
 
-    .zonaContenido__img--2 {
-        img {
-            height: 100%;
-            max-width: 100%;
+    .zonaContenido {
+        background-color: #c7c7c7;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+        .zonaContenido__img--1 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--2 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--3 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--4 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--5 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
+        }
+
+        .zonaContenido__img--6 {
+            img {
+                height: 100%;
+                max-width: 100%;
+            }
         }
     }
-
-    .zonaContenido__img--3 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
-    }
-
-    .zonaContenido__img--4 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
-    }
-
-    .zonaContenido__img--5 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
-    }
-
-    .zonaContenido__img--6 {
-        img {
-            height: 100%;
-            max-width: 100%;
-        }
-    }
-
-
-
 }

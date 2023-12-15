@@ -1,43 +1,94 @@
-body {
-    margin: 0;
-    font-family: 'Asap', sans-serif;
-    background-color: #c7c7c7;
+@media all and (min-width: 768px) {
+    body {
+        margin: 0;
+        font-family: 'Asap', sans-serif;
+        background-color: #c7c7c7;
+    }
+    
+    
+    .zonaContenido--contactos1 {
+        width: auto;
+        height: 500px;
+        margin-top: 250px;
+    
+        .zonaContenido--contactos1__txt {
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            display: flex;
+            text-align:justify;
+            
+    
+            .titulo--contactos1{
+                font-weight: bold;
+            }
+    
+            p{
+                font-size: large;
+            }
+        }
+        .img--contactos1{
+            height: 25px;
+            width: auto;
+        }
+        .zonaContactos--img{
+            a {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+                
+                .img--flecha {
+                    width: 5%;
+                }
+            }
+        }
+    }
 }
 
 
-.zonaContenido--contactos1 {
-    width: auto;
-    height: 500px;
-    margin-top: 250px;
 
-    .zonaContenido--contactos1__txt {
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        display: flex;
-        text-align:justify;
-        
-
-        .titulo--contactos1{
-            font-weight: bold;
-        }
-
-        p{
-            font-size: large;
-        }
+@media all and (max-width: 768px) {
+    body {
+        margin: 0;
+        font-family: 'Asap', sans-serif;
+        background-color: #c7c7c7;
     }
-    .img--contactos1{
-        height: 25px;
+    
+    
+    .zonaContenido--contactos1 {
         width: auto;
-    }
-    .zonaContactos--img{
-        a {
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        height: 500px;
+        margin-top: 250px;
+    
+        .zonaContenido--contactos1__txt {
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            display: flex;
+            text-align:justify;
             
-            .img--flecha {
-                width: 5%;
+    
+            .titulo--contactos1{
+                font-weight: bold;
+            }
+    
+            p{
+                font-size: large;
+            }
+        }
+        .img--contactos1{
+            height: 25px;
+            width: auto;
+        }
+        .zonaContactos--img{
+            a {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+                
+                .img--flecha {
+                    width: 5%;
+                }
             }
         }
     }

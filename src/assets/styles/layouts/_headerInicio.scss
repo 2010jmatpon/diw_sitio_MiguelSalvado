@@ -1,12 +1,28 @@
-.zonaHeader {
-    background-color: black;
-    height: 1100px;
-    justify-content: center;
-    align-items: center;
-    display: flex;
+@media all and (min-width: 768px) {
+    .zonaHeader {
+        background-color: black;
+        height: 1100px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
 
-    .imagenLogo {
-        background-size: cover;
-        background-position: center;
+        .imagenLogo {
+            background-size: cover;
+            background-position: center;
+        }
+    }
+}
+@media all and (max-width: 768px) {
+    .zonaHeader {
+        background-color: black;
+        height: 980px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+
+        .imagenLogo {
+            background-size: cover;
+            background-position: center;
+        }
     }
 }
